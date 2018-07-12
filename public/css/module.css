@@ -1,0 +1,16 @@
+.marginright {
+  padding-top: 10px;
+  border-right: 1px black; }
+
+.alice {
+  margin-left: 2%;
+  margin-right: 2%; }
+
+.row {
+  margin: auto;
+  width: 70%; }
+
+.foob {
+  display: inline;
+  padding-left: 1%;
+  margin: 2%; }

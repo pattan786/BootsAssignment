@@ -12,6 +12,9 @@ header{
 .heading{
  padding-top: 22px;   
 }
+.marginright{
+    padding-top: 10px;
+}
 
 .signin{
     margin: 7px;
@@ -23,7 +26,8 @@ header{
    
 }
 .row{
-    width: 100%;
+    margin: auto;
+    width: 70%;
 }
 ul{
     list-style-type: none;
@@ -34,9 +38,11 @@ h3,li,.lead{
     text-decoration: none;
 }
 .foot{
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
     border: 1px black;
+    background: #000000;
+    color: #ffffff;
 
 }
 h3,.lead{
@@ -62,58 +68,82 @@ h3,.lead{
 .crea{
     padding-bottom: 40px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.mahesh{
-    padding-top: 55px;
+.tadika{
+    text-align: center;
+    margin-bottom: 20px;
 }
-@media(max-width:1091px){
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.content{
+    padding-top: 10px;
+}
+.lastul{
+    display: inline;
+    color: #ffffff;
+
+}
+.lastli{
+    
+    display: inline;
+}
+.mahesh{
+    padding-top: 15px;
+}
+#foot{
+    
+    color: #ffffff;
+    padding-top: 15px;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+.box-footer-2{
+    margin-top: 0;
+}
+/*@media(max-width:1091px){
     .box-footer-2 .mahesh .foob{
         margin: 6%;
         padding-left: 4%;
@@ -137,11 +167,11 @@ h3,.lead{
         padding-left: 9%;  
         text-align: center;   
     }
-}
+}*/
 .foob{
     display: inline;  
     padding-left: 1%;
-    margin: 8%;
+    margin: 2%;
 }
 .social-fb { 
     color: #ffffff;    
@@ -165,9 +195,11 @@ h3,.lead{
 
 .box-footer-2{
     height: 150px;
-    background: #000000;    
+    background: #000000;  
+    margin: auto;
+    text-align: center;  
 }
-@media(max-width:1091px){
+/*@media(max-width:1091px){
     .box-footer-2 .mahesh .foob{
         margin: 6%;
         padding-left: 4%;
@@ -192,4 +224,4 @@ h3,.lead{
         text-align: center;   
     }
 }
-
+*/
