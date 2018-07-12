@@ -1,0 +1,126 @@
+body, html {
+  width: 100%; }
+
+header {
+  text-align: center;
+  font-family: sans-serif;
+  height: 100px;
+  color: white;
+  background: black; }
+
+.heading {
+  padding-top: 22px; }
+
+.signin {
+  margin: 7px; }
+
+.alice {
+  margin-left: 2%;
+  margin-right: 2%; }
+
+.row {
+  width: 100%; }
+
+ul {
+  list-style-type: none;
+  padding-left: 0px; }
+
+h3, li, .lead {
+  text-align: center;
+  text-decoration: none; }
+
+.foot {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px black; }
+
+h3, .lead {
+  font-family: sans-serif; }
+
+.marginright {
+  border-right: 1px black; }
+
+.bord {
+  border: 0px; }
+
+.nav-item {
+  margin: 31px; }
+
+.createA {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%; }
+
+.crea {
+  padding-bottom: 40px; }
+
+.mahesh {
+  padding-top: 55px; }
+
+@media (max-width: 1091px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 6%;
+    padding-left: 4%; } }
+
+@media (max-width: 821px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 5%;
+    padding-left: 5%; } }
+
+@media (max-width: 660px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 3%;
+    padding-left: 7%; } }
+
+@media (max-width: 476px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 0%;
+    padding-left: 9%;
+    text-align: center; } }
+
+.foob {
+  display: inline;
+  padding-left: 1%;
+  margin: 8%; }
+
+.social-fb {
+  color: #ffffff; }
+
+.social-tw {
+  color: #ffffff; }
+
+.social-gp {
+  color: #ffffff; }
+
+.social-ld {
+  color: #ffffff; }
+
+.social-gh {
+  color: #ffffff; }
+
+.box-footer-2 {
+  height: 150px;
+  background: #000000; }
+
+@media (max-width: 1091px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 6%;
+    padding-left: 4%; } }
+
+@media (max-width: 821px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 5%;
+    padding-left: 5%; } }
+
+@media (max-width: 660px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 3%;
+    padding-left: 7%; } }
+
+@media (max-width: 476px) {
+  .box-footer-2 .mahesh .foob {
+    margin: 0%;
+    padding-left: 9%;
+    text-align: center; } }
